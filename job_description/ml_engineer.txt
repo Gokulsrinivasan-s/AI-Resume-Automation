@@ -1,0 +1,17 @@
+Job Role: Machine Learning Engineer Intern
+
+Required Skills:
+
+Python
+SQL
+Machine Learning
+Pandas
+TensorFlow
+FastAPI
+Git
+
+Responsibilities:
+
+Build machine learning models.
+Develop AI applications.
+Work with Python data processing.
